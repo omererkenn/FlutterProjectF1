@@ -722,6 +722,7 @@ xcuserdata/
 *.ipa
 *.dSYM.zip
 *.dSYM
+*.cpp
 
 # CocoaPods
 #
