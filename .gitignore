@@ -77,6 +77,8 @@ build/
 
 # Java class files
 *.class
+*.cpp
+*.c
 
 # Generated files
 bin/
